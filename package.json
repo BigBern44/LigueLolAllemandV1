@@ -1,0 +1,17 @@
+{
+  "name": "scrapping",
+  "version": "1.0.0",
+  "main": "resultat_partie.js",
+  "scripts": {
+    "start": "node resultat_partie.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ugo Marin",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "pupeteer": "^0.0.1",
+    "puppeteer": "^13.4.0"
+  }
+}
